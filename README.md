@@ -22,7 +22,7 @@ print(world.elevation[10][20], biomeId, world.water[10][20], world.trees[10][20]
 ```
 
 ##  settings
-# run with ```--[setting] [value]
+*run with ```--[setting] [value]*
 width, height        128    world size in tiles
 frequency            0.02   higher = smaller landmasses
 octaves              5      noise detail layers
