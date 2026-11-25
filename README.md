@@ -1,5 +1,5 @@
 # Random World Generator (draft)
-A Lua-based procedural world generator that creates randomly generated maps from configurable settings
+A Lua based procedural world generator that creates randomly generated maps from configurable settings, will most likely not be updated this is used for portfolio purposes.
 
 ## to run
 ```sh
